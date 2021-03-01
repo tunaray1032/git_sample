@@ -10,7 +10,7 @@ import numpy
 import matplotlib.pyplot as plot
 
 cap = cv2.VideoCapture(0)
-print('Hello')
+print('Hello2')
 
 #while(1):
     # get a frame
